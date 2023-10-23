@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JosephCoyotl/SHPofolio.git/static/css/main.ec717c00.css",
+    "main.js": "/JosephCoyotl/SHPofolio.git/static/js/main.b4502cfa.js",
+    "static/media/revicons.eot": "/JosephCoyotl/SHPofolio.git/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/JosephCoyotl/SHPofolio.git/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/JosephCoyotl/SHPofolio.git/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/JosephCoyotl/SHPofolio.git/index.html",
+    "main.ec717c00.css.map": "/JosephCoyotl/SHPofolio.git/static/css/main.ec717c00.css.map",
+    "main.b4502cfa.js.map": "/JosephCoyotl/SHPofolio.git/static/js/main.b4502cfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec717c00.css",
+    "static/js/main.b4502cfa.js"
+  ]
+}
