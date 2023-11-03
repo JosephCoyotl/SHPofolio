@@ -1,36 +1,32 @@
 [
   {
     "id": 1,
-    "company": "Amazon",
-    "role": "Software Dev Engineer Intern, Alexa",
-    "dates": "May 2023 - August 2023",
+    "company": "PATHS-UP",
+    "role": "Lab Technician",
+    "dates": "June 2022 - August 2022",
     "desc": [
-      "Worked with AWS technologies including DynamoDB database, S3 storage bucket, and Alexa 1P Skill",
-      "Successfully integrated LLM through API calls for voice-based interactions and speech utterances",
-      "Employed sophisticated pre-processing techniques prompt-engineering, and feature extraction methods, which led to a 37% reduction in response time"
+      "Catalogued over 700 values after tensile testing 4 different tubes. Assembled and calibrated a servo controller to simulate blood pumping. Then created solutions that has similar optical properties as blood and skin for the PPG sensor to detect the amplitude of the simulated blood through the tubes while engulfed by the skin solution."
     ],
     "img": "assets/experiences/amazon.png"
   },
   {
     "id": 2,
-    "company": "L3Harris",
-    "role": "Software Engineer Intern, Space and Airborne Systems",
+    "company": "Cool Stuff & Accessories",
+    "role": "Website Manager",
     "desc": [
-      "Upgraded message validation tool using Python for use with RabbitMQ message broker to validate the contents of 100+ messages per minute and detect any anomalies",
-      "Automated HTML documentation generation from JSON Schema files using Python and Bash scripts, and updated them on a local webpage I designed to enhance employee productivity"
+      "Utilized google trends when selecting specific titles and descriptions to ensure that items would have appear more often due to the term frequency of the titles following up to date searches. Leading to an increase of 30% term frequency for objects that were uploaded by me."
     ],
-    "dates": "May 2022 - August 2022",
+    "dates": "June 2021 - July 2021",
     "img": "assets/experiences/l3.png"
   },
   {
     "id": 3,
-    "company": "ICAI Comillas Pontifical University",
-    "role": "Research Aid",
+    "company": "Moon Freight",
+    "role": "Truck Assistant",
     "desc": [
-      "Optimized the use of transfer learning and neural networks for a real-time object detection machine",
-      "Created Python scripts using the YOLOv5 object detection models that learned to identify Lego pieces in real-time based on their characteristics of color, shape, and size in Google Colab with above 85% accuracy."
+      "Truck deck maintenance, refueling, sleep documentation, and unloaded over 200 boxes of payload materials to grocery stores, and shops."
     ],
-    "dates": "January 2023-April 2023",
+    "dates": "June 2020-August 2020",
     "img": "assets/experiences/comillas.png"
   }
 ]
